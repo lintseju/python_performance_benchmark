@@ -1,0 +1,8 @@
+feather-format==0.4.0
+matplotlib==2.2.3
+msgpack-numpy==0.4.1
+numpy==1.14.3
+pandas==0.23.3
+tables==3.5.2
+xlrd==1.2.0
+xlsxwriter==1.1.8
